@@ -36,22 +36,22 @@
     <tspan x="20" dy="1.2em">                                     :+=                                </tspan>
   </text>
 <text x="40" y="600">
-  <!-- Intro Header -->
+  <!-- Intro -->
   <tspan class="heading" x="40" dy="1.4em">Hello, I'm Benedict Eko 👋🏾</tspan>
-  <tspan class="section" x="40" dy="1.5em">💻 Aspiring Cybersecurity Analyst | 🛡️ Security Enthusiast | Fluent in Python🐍 &amp; SQL</tspan>
+  <tspan class="section" x="40" dy="1.5em">💻 Aspiring Cybersecurity Analyst | Security Enthusiast | Fluent in Python🐍 &amp; SQL</tspan>
 
   <!-- ABOUT ME -->
   <tspan class="key" x="40" dy="2.4em">ABOUT ME:</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ M.S. Computer Science (in progress) - University of Texas at Dallas</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ B.S. Cybersecurity and Information Assurance - Western Governors University</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ A.A.S. Information Systems Cybersecurity - Collin College (3.85 GPA, Magna Cum Laude)</tspan>
-  <tspan class="value" x="40" dy="1.2em">❯ Executive Tech Support Specialist @ Capital One</tspan>
+  <tspan class="value" x="40" dy="1.2em">❯ 💼 Executive Tech Support Specialist @ Capital One</tspan>
 
-  <!-- CERTIFICATIONS -->
+  <!-- CERTS -->
   <tspan class="key" x="40" dy="2.4em">CERTIFICATIONS:</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ PenTest+, Security+, Network+, A+, SSCP, ITIL 4, Six Sigma YB/WB, Jamf PRO, Azure VDS</tspan>
 
-  <!-- LANGUAGES -->
+  <!-- LANGS -->
   <tspan class="key" x="40" dy="2.4em">LANGUAGES:</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ Python, SQL, Bash, PowerShell</tspan>
 
@@ -59,7 +59,7 @@
   <tspan class="key" x="40" dy="2.4em">TOOLS:</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ Splunk, Wazuh, pfSense, Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Hydra</tspan>
 
-  <!-- HOME LAB -->
+  <!-- HomeLab Stuff -->
   <tspan class="key" x="40" dy="2.4em">HOME LAB:</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ SIEM (Splunk &amp; Wazuh), AD Domain, pfSense, DNS, GPO, log analysis, threat hunting</tspan>
   <tspan class="value" x="40" dy="1.2em">❯ Simulated brute-force attacks, failed logons, packet filtering &amp; alerting</tspan>
