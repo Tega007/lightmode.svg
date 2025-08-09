@@ -38,7 +38,7 @@
 <text x="40" y="600">
   <!-- Intro -->
   <tspan class="heading" x="40" dy="1.4em">Hello, I'm Benedict Eko 👋🏾</tspan>
-  <tspan class="section" x="40" dy="1.5em">💻 Aspiring Cybersecurity Analyst | Security Enthusiast | Fluent in Python🐍 &amp; SQL</tspan>
+  <tspan class="section" x="40" dy="1.5em">💻 Aspiring Cybersecurity Analyst | Security Enthusiast | Python🐍 &amp; SQL</tspan>
 
   <!-- ABOUT ME -->
   <tspan class="key" x="40" dy="2.4em">ABOUT ME:</tspan>
